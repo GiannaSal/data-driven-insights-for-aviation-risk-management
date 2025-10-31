@@ -1,0 +1,40 @@
+Aircraft.Category,Aircraft.damage,Count
+Airplane,Destroyed,16346
+Airplane,Minor,2381
+Airplane,Substantial,57448
+Airplane,Unknown,100
+Balloon,Destroyed,15
+Balloon,Minor,45
+Balloon,Substantial,75
+Blimp,Destroyed,1
+Blimp,Substantial,3
+Glider,Destroyed,36
+Glider,Minor,9
+Glider,Substantial,458
+Glider,Unknown,2
+Gyrocraft,Destroyed,25
+Gyrocraft,Minor,1
+Gyrocraft,Substantial,147
+Helicopter,Destroyed,1234
+Helicopter,Minor,111
+Helicopter,Substantial,4224
+Helicopter,Unknown,15
+Powered Parachute,Destroyed,4
+Powered Parachute,Minor,10
+Powered Parachute,Substantial,74
+Powered-Lift,Destroyed,1
+Powered-Lift,Minor,1
+Powered-Lift,Substantial,2
+Rocket,Destroyed,1
+ULTR,Substantial,1
+UNK,Unknown,2
+Ultralight,Destroyed,5
+Ultralight,Substantial,24
+Unknown,Destroyed,475
+Unknown,Minor,100
+Unknown,Substantial,1035
+WSFT,Destroyed,1
+WSFT,Substantial,8
+Weight-Shift,Destroyed,8
+Weight-Shift,Minor,1
+Weight-Shift,Substantial,151
