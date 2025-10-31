@@ -15,3 +15,8 @@ Similarly weather conditions are classified into categories containing VMC - Goo
 
 # Conclusion
 Airplanes and Helicopters are the most common aircrafts used in commercial and private enterprise hence the need for direct comparison between the two. Both have pros and cons that are well reflected . The data generated can be useful in confering valid business recommendations.
+
+#Interactive Dashboard
+[This dashboard shows represents 3 business recommendations](https://public.tableau.com/views/phase1projecttableau_17619219005770/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+[![Dashboard Preview](https://public.tableau.com/views/phase1projecttableau_17619219005770/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
