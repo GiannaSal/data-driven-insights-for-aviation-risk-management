@@ -1,9 +1,0 @@
-Aircraft.Category,Aircraft.damage,Percentage
-Airplane,Substantial,75.31694526384793
-Airplane,Destroyed,21.430350704686987
-Airplane,Minor,3.1215994755817764
-Airplane,Unknown,0.13110455588331696
-Helicopter,Substantial,75.64469914040114
-Helicopter,Destroyed,22.098853868194844
-Helicopter,Minor,1.9878223495702003
-Helicopter,Unknown,0.26862464183381085
